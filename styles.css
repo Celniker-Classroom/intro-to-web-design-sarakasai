@@ -1,5 +1,22 @@
+h1{
+  background-color:rgb(224, 170, 179);
+  width:800px;
+  padding:30px;
+  border-left: 3px double whitesmoke;
+  border-right: 3px double whitesmoke;
+}
+h2{
+  font-size:1.25em;
+  text-align: center;
+}
+body{
+  background-color:whitesmoke;
+  font-family:'Times New Roman', Times, serif;
+  margin: 0;
+}
 img {
-  width: 400px;
+  width: 150px;
+  height: 100px;
   border-radius: 10px;
 }
 
