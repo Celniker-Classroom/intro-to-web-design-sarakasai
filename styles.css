@@ -220,10 +220,10 @@ a:active {
     }
 }
 #melody-pic {
-    display: block;
-    width: 100%;
-    max-width: 850px;
-    margin: 40px auto 10px auto;
+    float: left;
+    width: 600px; 
+    max-width: 65%; 
+    margin-bottom: 30px;
     border: 3px solid #fff;
     border-radius: 10px;
 }
