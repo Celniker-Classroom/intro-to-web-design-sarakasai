@@ -219,12 +219,10 @@ a:active {
         width: 90%; 
     }
 }
-#sidebar img {
-    float: none !important;
-    display: block;
-    width: 85%;
-    margin: 15px auto;
+#melody-pic {
+    float: right;
+    width: 180px;
+    margin: 15px 20px 15px 20px;
     border: 3px solid #fff;
     border-radius: 10px;
-    filter: grayscale(0%) !important;
 }
